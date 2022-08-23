@@ -31,7 +31,12 @@ Best of luck
 
 ### How to run app & test
 
-- Leave instruction on how to run and test your app here
+    - Run code editor
+    - Type in terminal: "git clone https://github.com/seriksk1/git-topic-explorer.git ."
+    - Type in terminal: "npm i"
+    - To run the app you have to create a github token here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+    - Create .env file and create a variable: "REACT_APP_GITHUB_API_TOKEN={Token}" (You can check .env.template file as example)
+    - Start the app by command "npm run start"
 
 ### Future Improvements
 
